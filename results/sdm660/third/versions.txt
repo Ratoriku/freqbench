@@ -1,0 +1,2 @@
+Kernel: Linux version 4.4.255-MeowKernel (Meow@Ratoriku) (Proton clang version 13.0.0 (https://github.com/llvm/llvm-project b5e3a5785dab0d0c7aa68cc65c2dd348488e72d1)) #1 SMP PREEMPT Thu Feb 4 12:08:20 UTC 2021
+Python: Python 3.8.5
