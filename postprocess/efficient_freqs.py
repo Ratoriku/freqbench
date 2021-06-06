@@ -51,7 +51,7 @@ for cpu, cpu_data in cpus_data.items():
 
         last_freq = freq
         eff_freqs.add(freq)
-        print(freq)
+        print(freq, eff)
 
     # Remove inefficient freqs
     ineff_freqs = freqs.keys() - eff_freqs
